@@ -22,6 +22,8 @@ To get started with this project, follow these steps:
 
     ```bash
     cd blog_React
+    ```
+    ```bash
     npm install
     ```
 
