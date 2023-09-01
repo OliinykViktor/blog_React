@@ -18,19 +18,18 @@ Blog on React is designed with a minimalist aesthetic, focusing on simplicity an
 
 To get started with this project, follow these steps:
 
-1. Clone the repository:
+1. **Install Dependencies:**
 
-   ```bash
-   git clone https://github.com/OliinykViktor/blog_React
-   
-2. Install dependencies:
+    ```bash
+    cd blog_React
+    npm install
+    ```
 
-   ```bash
-  cd blog_React
-  
-  ```bash
-  npm install
+2. **Start the Development Server:**
 
+    ```bash
+    npm run dev
+    ```
 3. Start the development server:
    ```bash
   npm run dev # or yarn dev
