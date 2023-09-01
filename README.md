@@ -21,14 +21,16 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/blog-on-react.git
+   git clone https://github.com/OliinykViktor/blog_React
+   
 2. Install dependencies:
 
+   ```bash
   cd blog-on-react
   npm install # or yarn install
 
 3. Start the development server:
-
+   ```bash
   npm run dev # or yarn dev
 
 4. Screenshots
