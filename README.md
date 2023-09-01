@@ -34,7 +34,11 @@ To get started with this project, follow these steps:
     ```
 3. Start the development server:
    ```bash
-  npm run dev # or yarn dev
+    npm run dev
+  ```
+```bash
+    yarn dev
+  ```
 
 4. Screenshots
 Here you can see screenshots of some features of our application.
