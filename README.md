@@ -44,8 +44,7 @@ To get started with this project, follow these steps:
 Here you can see screenshots of some features of our application.
 
 Feature 1
-[Feature 1 Screenshot](blog_React/src/assets/screnshots
-/pageAbout_1.png)
+[Feature 1 Screenshot](https://github.com/OliinykViktor/blog_React/blob/main/src/assets/screnshots/pageAbout_1.png)
 
 Feature 2
 [Feature 2 Screenshot](https://github.com/OliinykViktor/blog_React/blob/main/src/assets/screnshots/pageAbout_2_.png)
