@@ -26,8 +26,10 @@ To get started with this project, follow these steps:
 2. Install dependencies:
 
    ```bash
-  cd blog-on-react
-  npm install # or yarn install
+  cd blog_React
+  
+  ```bash
+  npm install
 
 3. Start the development server:
    ```bash
