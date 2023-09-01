@@ -44,19 +44,17 @@ To get started with this project, follow these steps:
 Here you can see screenshots of some features of our application.
 
 Feature 1
-Feature 1 Screenshot
-
-Description or details about Feature 1.
+[Feature 1 Screenshot](https://github.com/OliinykViktor/blog_React/blob/main/src/assets/screnshots/pageAbout_1.png)
 
 Feature 2
-Feature 2 Screenshot
-
-Description or details about Feature 2.
+[Feature 2 Screenshot](https://github.com/OliinykViktor/blog_React/blob/main/src/assets/screnshots/pageAbout_2_.png)
 
 Feature 3
-Feature 3 Screenshot
+[Feature 3 Screenshot](https://github.com/OliinykViktor/blog_React/blob/main/src/assets/screnshots/pageBlog_1.png)
 
-Description or details about Feature 3.
+Feature 4
+[Feature 4 Screenshot](https://github.com/OliinykViktor/blog_React/blob/main/src/assets/screnshots/pageBlog_2.png)
+
 
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
